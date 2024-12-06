@@ -22,7 +22,7 @@ To calculate the days before birthdate, subtract today's date from the birthdate
 #### Download
 Download the Repository through Clone Repository or Download Zip
 ```
-git clone https://github.com/clarencesarmiento/CS50P-Final-Project.git
+git clone https://github.com/Raghuvaranlokati/edx
 ```
 #### Installation
 After download, go to `cmd` and navigate to the project folder directory.
